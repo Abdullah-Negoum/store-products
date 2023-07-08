@@ -157,6 +157,6 @@ height: 30px;
 @media(max-width:768px){
     input:focus{
       
-        transform:scale(0.95)
+        transform:scale(1)
     }
 }
