@@ -144,3 +144,10 @@ height: 30px;
         width: 1095px;
     }
 }
+
+
+@media(max-width:768px){
+    input{
+      padding: 8px;
+    }
+}
