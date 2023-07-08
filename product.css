@@ -149,5 +149,14 @@ height: 30px;
 @media(max-width:768px){
     input{
       padding: 8px;
+     
+    }
+}
+
+
+@media(max-width:768px){
+    input:focus{
+      
+        transform:scale(0.8)
     }
 }
