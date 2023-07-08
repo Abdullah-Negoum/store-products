@@ -103,3 +103,44 @@ th,td{
    background-color: #111; 
 height: 30px;
 }
+
+
+
+/*small screen
+@media(min-width:450px){
+    .crud{
+        width: 430px;
+    }
+}
+/*medium screen
+@media(min-width:735px){
+    .crud{
+        width: 721px;
+    }
+}
+/*large screen
+@media(min-width:1433px){
+    .crud{
+        width: 1200px;
+    }
+}
+*/
+
+/*small screen*/
+@media(max-width:768px){
+    .crud{
+        width: 750px;
+    }
+}
+/*medium screen*/
+@media(max-width:992px){
+    .crud{
+        width: 970px;
+    }
+}
+/*large screen*/
+@media(max-width:1200px){
+    .crud{
+        width: 1115px;
+    }
+}
